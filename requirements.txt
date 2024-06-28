@@ -1,0 +1,6 @@
+flet
+python-dotenv
+websocket
+sqlmodel
+flet-fastapi
+pyjwt
